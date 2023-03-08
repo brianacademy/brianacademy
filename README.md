@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brianacademy
+- 👋 Hi, I’m ntabo brian
 - 👀 I’m interested in front-end design
 - 🌱 I’m currently learning html/css & js
 - 💞️ I’m looking to collaborate on front-end projects
